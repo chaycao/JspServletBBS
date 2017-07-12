@@ -18,25 +18,15 @@ import java.io.IOException;
  * 若成功，则把用户信息保存到session中，跳转到文章列表上
  * 若失败，则保留在登录页面
  */
-@WebServlet(name="login"
-        , urlPatterns = "/login")
-public class LoginServlet extends HttpServlet{
+@WebServlet(name="articleEdit"
+        , urlPatterns = "/articleEdit")
+public class ArticleEditServlet extends HttpServlet{
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
         doPost(request, response);
     }
 
     public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
         request.setCharacterEncoding("utf-8");
-        String userName = request.getParameter("username");
-        String userPassword = request.getParameter("userpassword");
-        User user = UserImpl.INSTANCE.login(userName, userPassword);
-        if(user != null){ //登录成功
-            HttpSession session = request.getSession();
-            session.setAttribute("userName", userName);
-            session.setAttribute("userId", user.getId());
-            request.getRequestDispatcher("/toArticleList").forward(request, response);
-        } else {
-            ;
-        }
+        request.getRequestDispatcher("toArticleEdit").forward(request, response);
     }
 }

@@ -9,7 +9,7 @@
 
 <body>
     <p style="color: red">发表成功！</p>
-    <a href="articleEdit.jsp">继续写新文章</a>
-    <a href="articleList.jsp">返回主页面</a>
+    <a href="toArticleEdit">继续写新文章</a>
+    <a href="toArticleList">返回主页面</a>
 </body>
 </html>

@@ -32,9 +32,9 @@ public class AddCommentServlet extends HttpServlet{
         HttpSession session = request.getSession();
         int userId = (Integer)session.getAttribute("userId");
         if(CommentImpl.INSTANCE.add(comment, userId, articleId)) {
-            response.sendRedirect("articleContext.jsp?index=" + index);
+            response.sendRedirect("toArticleContext?index=" + index);
         } else {
-            response.sendRedirect("articleContext.jsp?index=" + index);
+            response.sendRedirect("toArticleContext?index=" + index);
         }
     }
 }

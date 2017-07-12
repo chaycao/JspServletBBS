@@ -11,6 +11,7 @@ public class Comment {
     private Date time;
     private int articleId;
     private int userId;
+    private String userName;
 
     public String getUserName() {
         return userName;
@@ -20,7 +21,7 @@ public class Comment {
         this.userName = userName;
     }
 
-    private String userName;
+
 
     public Comment(String context,Date time, String userName){
         this.context = context;

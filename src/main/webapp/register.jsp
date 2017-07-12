@@ -24,6 +24,6 @@
 		</table>
 	</form>
 
-	<a href="index.jsp">返回登录</a>
+	<a href="toLogin">返回登录</a>
 </body>
 </html>

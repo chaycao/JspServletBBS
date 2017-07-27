@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f94bab-1e7e-485f-9020-399d38770aaf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hibernate问题记录.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/bean/Comment.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/bean/Comment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/control/impl/ArticleImpl.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/control/impl/ArticleImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/control/impl/CommentImpl.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/control/impl/CommentImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/control/impl/UserImpl.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/control/impl/UserImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/servlet/AddCommentServlet.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/servlet/AddCommentServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/servlet/LoginServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/servlet/RegisterServlet.class" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/classes/com/chaycao/jspservletbbs/servlet/RegisterServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/bean/Comment.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/bean/Comment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/control/impl/ArticleImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/control/impl/ArticleImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/control/impl/CommentImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/control/impl/CommentImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/control/impl/UserImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/control/impl/UserImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/servlet/AddCommentServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/servlet/AddCommentServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/servlet/LoginServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/servlet/RegisterServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/chaycao/jspservletbbs/servlet/RegisterServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hibernate问题记录.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JspServeltBBS.iml" afterPath="$PROJECT_DIR$/JspServeltBBS.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/JspServeltBBS/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/JspServeltBBS/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/articleAddFail.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/articleAddFail.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/articleAddSuccess.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/articleAddSuccess.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/articleContext.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/articleContext.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/articleEdit.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/articleEdit.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/articleList.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/articleList.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/index.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JspServeltBBS/register.jsp" afterPath="$PROJECT_DIR$/target/JspServeltBBS/register.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,25 +43,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hibernate问题记录.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hibernate问题记录.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -705,12 +662,20 @@
       <workItem from="1500343017328" duration="4077000" />
       <workItem from="1500511736023" duration="37000" />
       <workItem from="1501059474711" duration="1623000" />
-      <workItem from="1501143411329" duration="3152000" />
+      <workItem from="1501143411329" duration="3277000" />
     </task>
+    <task id="LOCAL-00001" summary="完成Hibernate的加入，增加了dao层">
+      <created>1501155804628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1501155804628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11265000" />
+    <option name="totallyTimeSpent" value="11390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -736,7 +701,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45181674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27232796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -788,6 +753,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成Hibernate的加入，增加了dao层" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成Hibernate的加入，增加了dao层" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

@@ -24,6 +24,6 @@
             </tr>
         </table>
     </form>
-    没有账号？<a href="register.jsp">注册</a>
+    没有账号？<a href="toRegister">注册</a>
 </body>
 </html>

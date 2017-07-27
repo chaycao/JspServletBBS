@@ -12,8 +12,8 @@
 <body>
 
 
-    用户名：<%=session.getAttribute("userName")%><br>
-    <a href="articleList.jsp">返回</a>
+    用户名：${sessionScope.userName}<br>
+    <a href="toArticleList">返回</a>
     <form action="addArticle" method="post">
         <table>
             <tr>
